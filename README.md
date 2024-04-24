@@ -1,3 +1,4 @@
+```SQL
 create database gestorclientes;
 use gestorclientes;
 
@@ -20,3 +21,5 @@ CREATE TABLE Direcciones (
         ON DELETE CASCADE
         ON UPDATE CASCADE
 );
+
+```
